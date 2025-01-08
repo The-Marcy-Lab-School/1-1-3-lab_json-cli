@@ -1,6 +1,6 @@
-# Lab 1.3.0 - Building a CLI CRUD App With JSON
+# Building a CLI CRUD App With JSON
 
-- [Lab 1.3.0 - Building a CLI CRUD App With JSON](#lab-130---building-a-cli-crud-app-with-json)
+- [Building a CLI CRUD App With JSON](#building-a-cli-crud-app-with-json)
 - [Welcome to your second lab!](#welcome-to-your-second-lab)
   - [What is CRUD?](#what-is-crud)
   - [Why JSON?](#why-json)
